@@ -22,7 +22,9 @@
  * SOFTWARE.
  */
 
-// Package tiny lets you make requests to the Tinify API for JPEG/PNG images optimization.
+// Package tiny lets you make requests to the Tinify API for JPEG/PNG images
+// optimization using a URL or uploading the image file content.
+//
+// The code and documentation is based on the official Tinify API docs that can
+// be found here: https://tinypng.com/developers/reference
 package tiny
-
-/* ================[ UNDER CONSTRUCTION ]================*/
